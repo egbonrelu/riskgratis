@@ -1,7 +1,7 @@
 <footer class="Footer" role="contentinfo" data-aura-rendered-by="237:0">
     <span class="Footer-logo" data-aura-rendered-by="238:0">
         <img src="/images/logo_black and white.png" data-aura-rendered-by="239:0"></span>
-    <div data-aura-rendered-by="240:0">Copyright © 2017 Riskgratis™ Inc.</div>
+    <div data-aura-rendered-by="240:0">Copyright © 2017 Riskgratis™ Software.</div>
     <ul class="Footer-nav Footer-nav--secondary" data-aura-rendered-by="256:0">
         <li data-aura-rendered-by="257:0">
             <a href="/blog" data-aura-rendered-by="258:0">Blog</a>
